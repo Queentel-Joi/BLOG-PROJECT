@@ -1,1 +1,36 @@
-
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Blog Post",
+      "author": "John Doe",
+      "image": "https://via.placeholder.com/600x400?text=First+Post",
+      "content": "This is the content of my first blog post. It's great to be a blogger!",
+      "date": "2023-01-15"
+    },
+    {
+      "id": "2",
+      "title": "A Day in the Life",
+      "author": "Jane Smith",
+      "image": "https://via.placeholder.com/600x400?text=A+Day+In+Life",
+      "content": "Today was a busy day, full of coding and learning. I'm excited about what's next.",
+      "date": "2023-02-20"
+    },
+    {
+      "id": "3",
+      "title": "Tips for Learning JavaScript",
+      "author": "Code Master",
+      "image": "https://via.placeholder.com/600x400?text=JavaScript+Tips",
+      "content": "Consistency is key. Practice every day, build small projects, and don't be afraid to ask for help!",
+      "date": "2023-03-05"
+    },
+    {
+      "id": "4656",
+      "title": "Exploring the World of Web Development",
+      "author": "Alex Johnson",
+      "content": "Web development is a constantly evolving field. From HTML and CSS to powerful frameworks like React and Vue, there's always something new to learn. This post is just the beginning of my journey.\"\nSimply fill in these details in the \"Create New Post\" form on your blog page and click the \"Add New Post\" button.",
+      "image": "https://images.unsplash.com/photo-1549490288-7e79391d4e0e",
+      "date": "2025-06-26"
+    }
+  ]
+}
